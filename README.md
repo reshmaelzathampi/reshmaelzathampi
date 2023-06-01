@@ -1,4 +1,4 @@
-![log](https://github.com/reshmaelzathampi/reshmaelzathampi/blob/main/Banner.png)
+<img src="https://github.com/reshmaelzathampi/reshmaelzathampi/blob/main/Banner.png" alt="log" width="800" height="200">
 <h1 align="center">Hi 👋, I'm Reshma Thampi</h1>
 <h3 align="center">Passionately Pursuing AI Excellence</h3>
 
